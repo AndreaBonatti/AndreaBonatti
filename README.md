@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrea Bonatti - aka DocMeaningless. Welcome to my Github profile page. 👋 
 
-## I'm a Computer Engineer, Developer, and sometimes a novice digital artist!
+## I'm a Computer Engineer, Developer and sometimes a novice digital artist!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play videogames, watch tv series, read manga and comics
