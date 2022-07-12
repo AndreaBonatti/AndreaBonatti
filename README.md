@@ -3,7 +3,7 @@
 ## I'm a Computer Engineer, Developer and sometimes a digital artist!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play videogames, watch tv series, read manga and comics
+- ⚡ Fun fact: I love to play videogames, watch tv series, read books, manga and comics
 
 ### Connect with me:
 
