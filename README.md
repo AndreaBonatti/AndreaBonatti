@@ -1,4 +1,4 @@
-### Hi there, I'm Andrea Bonatti - aka DocMeaningless. Welcome to my Github profile page. 👋 
+### Hi there, I'm Andrea Bonatti. Welcome to my Github profile page. 👋 
 
 ## I'm a Computer Engineer, Developer and sometimes a digital artist!
 
