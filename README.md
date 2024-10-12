@@ -3,7 +3,7 @@
 ## I'm a Computer Engineer, Developer and sometimes a digital artist!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play videogames, watch tv series, read books, manga and comics
+- ⚡ Fun facts: I love to play videogames, watch tv series, read books, manga and comics
 
 ### Connect with me:
 
@@ -23,6 +23,12 @@
 <a href="#"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
 
 <br />
+
+### App on Google Play Store
+[<img align="left" alt="codeSTACKr | SIGMA Nota" width="22px" src="https://play-lh.googleusercontent.com/AAf-Emzg0eIWlVC8KtTRMjHhUkmwLyCDwmoFE-WcNzNlSVaGOnIMdrcF6XEZI_HNNww=w240-h480" />][sigmanota]
+
+<br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/andreabonatti92/
+[sigmanota]: https://play.google.com/store/apps/details?id=com.ideabs.sigmanota
